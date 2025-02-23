@@ -22,7 +22,7 @@ Usage
 
 Run the script using:
 
-python banks_project.py
+Code.py
 
 Outputs
 
